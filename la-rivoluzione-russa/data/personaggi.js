@@ -59,7 +59,7 @@ const PERSONAGGI = [
   },
   {
     id: 'p04',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alexander_Kerensky_LOC_hec_24462.jpg/320px-Alexander_Kerensky_LOC_hec_24462.jpg',
+    img: './img/kerenskij.png',
     imgCredito: 'Foto: Library of Congress (ante 1923) · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Alexander_Kerensky_LOC_hec_24462.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Aleksandr Fëdorovič',
     cognome: 'Kerenskij',
