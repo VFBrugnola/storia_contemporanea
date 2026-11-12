@@ -97,7 +97,7 @@ const PERSONAGGI = [
   },
   {
     id: 'p06',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Georgi_Plekhanov.jpg/320px-Georgi_Plekhanov.jpg',
+    img: './img/plechanov.png',
     imgCredito: 'Foto: autore sconosciuto (ante 1918) · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Georgi_Plekhanov.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Georgij Valentinovič',
     cognome: 'Plechanov',
