@@ -2,7 +2,7 @@
 const PERSONAGGI = [
   {
     id: 'p01',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nicolas_II_de_russie.jpg/320px-Nicolas_II_de_russie.jpg',
+    img: './img/nicola2.png',
     imgCredito: 'Foto: Boissonnas & Eggler (ante 1923) · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Nicolas_II_de_russie.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Nicola II',
     cognome: 'Romanov',
