@@ -154,7 +154,7 @@ const PERSONAGGI = [
   },
   {
     id: 'p09',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Makhno_en_1918.JPG/320px-Makhno_en_1918.JPG',
+    img: './img/machno.png',
     imgCredito: 'Foto: autore sconosciuto (1918) · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Makhno_en_1918.JPG" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Nestor Ivanovič',
     cognome: 'Machno',
