@@ -135,7 +135,7 @@ const PERSONAGGI = [
   },
   {
     id: 'p08',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kolchak_in_1919.jpg/320px-Kolchak_in_1919.jpg',
+    img: './img/kolcak.png',
     imgCredito: 'Foto: autore sconosciuto (1919) · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Kolchak_in_1919.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Aleksandr Vasil\'evič',
     cognome: 'Kolčak',
