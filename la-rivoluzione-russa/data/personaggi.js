@@ -116,7 +116,7 @@ const PERSONAGGI = [
   },
   {
     id: 'p07',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Chernov_%281873-1952%29%2C_Russian_revolutionary_%28small%29.jpg/320px-Viktor_Chernov_%281873-1952%29%2C_Russian_revolutionary_%28small%29.jpg',
+    img: './img/cernov.png',
     imgCredito: 'Foto: autore sconosciuto · Dominio pubblico · <a href="https://commons.wikimedia.org/wiki/File:Viktor_Chernov_(1873-1952),_Russian_revolutionary_(small).jpg" target="_blank" rel="noopener">Wikimedia Commons</a>',
     nome: 'Viktor Michajlovič',
     cognome: 'Černov',
